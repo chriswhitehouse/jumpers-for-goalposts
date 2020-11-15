@@ -6,7 +6,7 @@ Action; play a game, Variable reward; result of the game, Investment; league pos
 But I particularly enjoyed the building a squad. Finding the best young players, to bring into the team.
 
 On my Makers pre-course, I recently learnt about object oriented programming, and test driven development using Ruby's Rspec library. 
-In bed, this morning, I was pondering if it would be possible to build a really simplistic version of Football manager to test my new found OOD, and TDD learnings.
+I was pondering if it would be possible to build a really simplistic version of Football manager to test my new found OOD, and TDD learnings.
 
 How: To be built in ruby, using recently learnt OOD, and TDD methods. Using the command line as a user interface. A football manager game has a variety of objects that interact: a game; a team, a squad, players.
 
