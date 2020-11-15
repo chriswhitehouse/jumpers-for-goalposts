@@ -1,7 +1,9 @@
 require 'jumpers-for-goalposts'
 
-describe 'play' do
-  it 'outputs a random result of a game between two teams' do
-    expect(play("Team 1", "Team 2")).to satisfy { |value| ["Team 1 Wins!","Team 2 Wins!"].include?(value)}
+describe 'Game' do
+  describe 'play' do
+    it 'outputs a random result of a game between two teams' do
+      expect(play(clifton_posh, knowle_knucklers)).to satisfy { |value| ["Clifton Posh Wins!","Knowle Knucklers Wins!"].include?(value)}
+    end
   end
 end
