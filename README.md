@@ -1,4 +1,4 @@
-# Coding Side Project /# 1 - Jumpers for Goalposts
+# Coding Side Project #1 - Jumpers for Goalposts
 
 ### Why:
 As a teenager I used to love playing Football Manager 97 (yes, 97…). It was an addictive game; having many of the attributes of the hook model:
