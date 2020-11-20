@@ -19,8 +19,15 @@ Two teams of five players. With attackers and defenders. Play a single game. 
 ### Who:
 I'm the customer of this project. But other nostalgic 30 something nerds, might also be intrigued.
 
-### Where:
-To be published to github
 
-### When:
-Try and complete an MVP this afternoon.
+## Getting started
+
+`git clone path-to-your-repo`
+
+## Usage
+
+In command line: ruby jumpers-for-goalposts.rb
+
+## Running tests
+
+n/a
