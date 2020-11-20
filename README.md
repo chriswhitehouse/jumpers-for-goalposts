@@ -28,6 +28,13 @@ git clone git@github.com:chriswhitehouse/jumpers-for-goalposts.git
 
 In command line: ruby jumpers-for-goalposts.rb
 
+1. Pick your team: Clfiton Posh, or Knowle Knucklers
+2. Pick your five players, in turn with the computer
+3. Check your team, and play match
+4. Wait for the game to complete
+5. Read result
+
+
 ## Running tests
 
 n/a
