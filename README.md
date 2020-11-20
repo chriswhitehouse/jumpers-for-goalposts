@@ -22,7 +22,7 @@ I'm the customer of this project. But other nostalgic 30 something nerds, might 
 
 ## Getting started
 
-`git clone path-to-your-repo`
+`git clone git@github.com:chriswhitehouse/jumpers-for-goalposts.git'
 
 ## Usage
 
